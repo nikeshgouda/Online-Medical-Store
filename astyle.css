@@ -1,0 +1,16 @@
+p{
+    color:white;
+    font-size:24px;
+    font-family:yellow;
+    text-align:center;
+}
+
+body{
+    width: 800px;
+    margin: auto;
+    background-color:lightblue;
+}
+
+#t{
+    width: 800px;
+}
